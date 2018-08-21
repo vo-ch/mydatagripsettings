@@ -1,0 +1,14 @@
+<keymap version="1" name="Default copy" parent="$default">
+  <action id="ActivateDatabaseConsoleToolWindow">
+    <keyboard-shortcut first-keystroke="alt 3" />
+  </action>
+  <action id="EditorDown">
+    <keyboard-shortcut first-keystroke="down" />
+    <keyboard-shortcut first-keystroke="alt j" />
+  </action>
+  <action id="EditorUp">
+    <keyboard-shortcut first-keystroke="up" />
+    <keyboard-shortcut first-keystroke="alt k" />
+  </action>
+  <action id="SelectNextOccurrence" />
+</keymap>
