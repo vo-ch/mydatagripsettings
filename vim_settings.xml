@@ -28,11 +28,12 @@
       <file name="/a.sql" timestamp="1534699631828">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/aa2c8502-966b-44b7-89e6-3a23954dadae/console.sql" timestamp="1534802089751">
-        <mark key="'" line="42" column="18" />
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="43" column="62" />
-        <mark key="." line="1" column="0" />
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/aa2c8502-966b-44b7-89e6-3a23954dadae/console.sql" timestamp="1534846506970">
+        <mark key="'" line="45" column="2" />
+        <mark key="[" line="43" column="62" />
+        <mark key="]" line="45" column="2" />
+        <mark key="." line="45" column="2" />
+        <mark key="^" line="45" column="2" />
       </file>
       <file name="D:/skillup/TSQLFundamentals20160601/Ch08/Chapter 08 - Data Modification.sql" timestamp="1534624428471">
         <mark key="'" line="759" column="0" />
@@ -45,10 +46,10 @@
       <file name="/all_columns [local_sql_server]" timestamp="1533678587876">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="D:/skillup/TSQLFundamentals20160601/Ch08/Chapter 08 - Data Modification - Solutions.sql" timestamp="1534802072131">
-        <mark key="[" line="264" column="0" />
-        <mark key="]" line="306" column="61" />
-        <mark key="." line="218" column="18" />
+      <file name="D:/skillup/TSQLFundamentals20160601/Ch08/Chapter 08 - Data Modification - Solutions.sql" timestamp="1534846285629">
+        <mark key="[" line="242" column="34" />
+        <mark key="]" line="242" column="74" />
+        <mark key="." line="242" column="34" />
         <mark key="^" line="218" column="18" />
       </file>
       <file name="D:/skillup/TSQLFundamentals20160601/Ch07/Chapter 07 - Beyond the Fundamentals of Querying - Solutions.sql" timestamp="1533584726548">
@@ -64,7 +65,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="36" column="8" filename="D:/skillup/TSQLFundamentals20160601/Ch07/Chapter 07 - Beyond the Fundamentals of Querying - Solutions.sql" />
       <jump line="13" column="43" filename="D:/skillup/TSQLFundamentals20160601/Ch07/Chapter 07 - Beyond the Fundamentals of Querying - Solutions.sql" />
       <jump line="35" column="2" filename="D:/skillup/TSQLFundamentals20160601/Ch07/Chapter 07 - Beyond the Fundamentals of Querying - Solutions.sql" />
       <jump line="203" column="21" filename="D:/skillup/TSQLFundamentals20160601/Ch07/Chapter 07 - Beyond the Fundamentals of Querying - Solutions.sql" />
@@ -164,6 +164,7 @@
       <jump line="1" column="20" filename="$APPLICATION_CONFIG_DIR$/consoles/db/aa2c8502-966b-44b7-89e6-3a23954dadae/console.sql" />
       <jump line="3" column="28" filename="$APPLICATION_CONFIG_DIR$/consoles/db/aa2c8502-966b-44b7-89e6-3a23954dadae/console.sql" />
       <jump line="42" column="18" filename="$APPLICATION_CONFIG_DIR$/consoles/db/aa2c8502-966b-44b7-89e6-3a23954dadae/console.sql" />
+      <jump line="45" column="2" filename="$APPLICATION_CONFIG_DIR$/consoles/db/aa2c8502-966b-44b7-89e6-3a23954dadae/console.sql" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -182,31 +183,31 @@
         <text encoding="base64">RFJPUCBUQUJMRSBJRiBFWElTVFMgZGJvLk9yZGVyRGV0YWlscywgZGJvLk9yZGVyczsKCkNSRUFURSBUQUJMRSBkYm8uT3JkZXJzCigKICBvcmRlcmlkICAgICAgICBJTlQgICAgICAgICAgTk9UIE5VTEwsCiAgY3VzdGlkICAgICAgICAgSU5UICAgICAgICAgIE5VTEwsCiAgZW1waWQgICAgICAgICAgSU5UICAgICAgICAgIE5PVCBOVUxMLAogIG9yZGVyZGF0ZSAgICAgIERBVEUgICAgICAgICBOT1QgTlVMTCwKICByZXF1aXJlZGRhdGUgICBEQVRFICAgICAgICAgTk9UIE5VTEwsCiAgc2hpcHBlZGRhdGUgICAgREFURSAgICAgICAgIE5VTEwsCiAgc2hpcHBlcmlkICAgICAgSU5UICAgICAgICAgIE5PVCBOVUxMLAogIGZyZWlnaHQgICAgICAgIE1PTkVZICAgICAgICBOT1QgTlVMTAogICAgQ09OU1RSQUlOVCBERlRfT3JkZXJzX2ZyZWlnaHQgREVGQVVMVCgwKSwKICBzaGlwbmFtZSAgICAgICBOVkFSQ0hBUig0MCkgTk9UIE5VTEwsCiAgc2hpcGFkZHJlc3MgICAgTlZBUkNIQVIoNjApIE5PVCBOVUxMLAogIHNoaXBjaXR5ICAgICAgIE5WQVJDSEFSKDE1KSBOT1QgTlVMTCwKICBzaGlwcmVnaW9uICAgICBOVkFSQ0hBUigxNSkgTlVMTCwKICBzaGlwcG9zdGFsY29kZSBOVkFSQ0hBUigxMCkgTlVMTCwKICBzaGlwY291bnRyeSAgICBOVkFSQ0hBUigxNSkgTk9UIE5VTEwsCiAgQ09OU1RSQUlOVCBQS19PcmRlcnMgUFJJTUFSWSBLRVkob3JkZXJpZCkKKTsKCkNSRUFURSBUQUJMRSBkYm8uT3JkZXJEZXRhaWxzCigKICBvcmRlcmlkICAgSU5UICAgICAgICAgICBOT1QgTlVMTCwKICBwcm9kdWN0aWQgSU5UICAgICAgICAgICBOT1QgTlVMTCwKICB1bml0cHJpY2UgTU9ORVkgICAgICAgICBOT1QgTlVMTAogICAgQ09OU1RSQUlOVCBERlRfT3JkZXJEZXRhaWxzX3VuaXRwcmljZSBERUZBVUxUKDApLAogIHF0eSAgICAgICBTTUFMTElOVCAgICAgIE5PVCBOVUxMCiAgICBDT05TVFJBSU5UIERGVF9PcmRlckRldGFpbHNfcXR5IERFRkFVTFQoMSksCiAgZGlzY291bnQgIE5VTUVSSUMoNCwgMykgTk9UIE5VTEwKICAgIENPTlNUUkFJTlQgREZUX09yZGVyRGV0YWlsc19kaXNjb3VudCBERUZBVUxUKDApLAogIENPTlNUUkFJTlQgUEtfT3JkZXJEZXRhaWxzIFBSSU1BUlkgS0VZKG9yZGVyaWQsIHByb2R1Y3RpZCksCiAgQ09OU1RSQUlOVCBGS19PcmRlckRldGFpbHNfT3JkZXJzIEZPUkVJR04gS0VZKG9yZGVyaWQpCiAgICBSRUZFUkVOQ0VTIGRiby5PcmRlcnMob3JkZXJpZCksCiAgQ09OU1RSQUlOVCBDSEtfZGlzY291bnQgIENIRUNLIChkaXNjb3VudCBCRVRXRUVOIDAgQU5EIDEpLAogIENPTlNUUkFJTlQgQ0hLX3F0eSAgQ0hFQ0sgKHF0eSA+IDApLAogIENPTlNUUkFJTlQgQ0hLX3VuaXRwcmljZSBDSEVDSyAodW5pdHByaWNlID49IDApCik7CkdPCgpJTlNFUlQgSU5UTyBkYm8uT3JkZXJzIFNFTEVDVCAqIEZST00gU2FsZXMuT3JkZXJzOwpJTlNFUlQgSU5UTyBkYm8uT3JkZXJEZXRhaWxzIFNFTEVDVCAqIEZST00gU2FsZXMuT3JkZXJEZXRhaWxzOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">VVBEQVRFIE8KU0VUCiAgICBPLnNoaXBjb3VudHJ5ID0gQy5jb3VudHJ5LAogICAgTy5zaGlwcmVnaW9uID0gQy5yZWdpb24sCiAgICBPLnNoaXBjaXR5ID0gQy5jaXR5Ck9VVFBVVCBpbnNlcnRlZC5zaGlwY291bnRyeSwgZGVsZXRlZC5zaGlwY291bnRyeSxpbnNlcnRlZC5zaGlwY2l0eSwgZGVsZXRlZC5zaGlwY2l0eSwgZGVsZXRlZC5vcmRlcmlkCkZST00gZGJvLk9yZGVycyBBUyBPCkpPSU4gU2FsZXMuQ3VzdG9tZXJzIEFTIEMgT04gQy5jdXN0aWQgPSBPLmN1c3RpZApXSEVSRSBDLmNvdW50cnkgPSAnVUsnCgpVUERBVEUgZGJvLk9yZGVycwpTRVQKICAgIHNoaXBjb3VudHJ5ID0gQy5jb3VudHJ5LAogICAgc2hpcHJlZ2lvbiA9IEMucmVnaW9uLAogICAgc2hpcGNpdHkgPSBDLmNpdHkKT1VUUFVUIGluc2VydGVkLnNoaXBjb3VudHJ5LCBkZWxldGVkLnNoaXBjb3VudHJ5LGluc2VydGVkLnNoaXBjaXR5LCBkZWxldGVkLnNoaXBjaXR5LCBkZWxldGVkLm9yZGVyaWQKRlJPTSBTYWxlcy5DdXN0b21lcnMgQVMgQwpXSEVSRSBDLmN1c3RpZCA9IGRiby5PcmRlcnMuY3VzdGlkIEFORCBDLmNvdW50cnkgPSAnVUsnCgpVUERBVEUgZGJvLk9yZGVycwogIHNldCBzaGlwY291bnRyeSA9ICcnClNFTEVDVCAqIEZST00gZGJvLk9yZGVyczsK</text>
+        <text encoding="base64">aQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">VVBEQVRFIE8KU0VUCiAgICBPLnNoaXBjb3VudHJ5ID0gQy5jb3VudHJ5LAogICAgTy5zaGlwcmVnaW9uID0gQy5yZWdpb24sCiAgICBPLnNoaXBjaXR5ID0gQy5jaXR5Ck9VVFBVVCBpbnNlcnRlZC5zaGlwY291bnRyeSwgZGVsZXRlZC5zaGlwY291bnRyeSxpbnNlcnRlZC5zaGlwY2l0eSwgZGVsZXRlZC5zaGlwY2l0eSwgZGVsZXRlZC5vcmRlcmlkCkZST00gZGJvLk9yZGVycyBBUyBPCkpPSU4gU2FsZXMuQ3VzdG9tZXJzIEFTIEMgT04gQy5jdXN0aWQgPSBPLmN1c3RpZApXSEVSRSBDLmNvdW50cnkgPSAnVUsnCgpVUERBVEUgZGJvLk9yZGVycwpTRVQKICAgIHNoaXBjb3VudHJ5ID0gQy5jb3VudHJ5LAogICAgc2hpcHJlZ2lvbiA9IEMucmVnaW9uLAogICAgc2hpcGNpdHkgPSBDLmNpdHkKT1VUUFVUIGluc2VydGVkLnNoaXBjb3VudHJ5LCBkZWxldGVkLnNoaXBjb3VudHJ5LGluc2VydGVkLnNoaXBjaXR5LCBkZWxldGVkLnNoaXBjaXR5LCBkZWxldGVkLm9yZGVyaWQKRlJPTSBTYWxlcy5DdXN0b21lcnMgQVMgQwpXSEVSRSBDLmN1c3RpZCA9IGRiby5PcmRlcnMuY3VzdGlkIEFORCBDLmNvdW50cnkgPSAnVUsnCgpVUERBVEUgZGJvLk9yZGVycwogIHNldCBzaGlwY291bnRyeSA9ICcnClNFTEVDVCAqIEZST00gZGJvLk9yZGVyczsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">T1VUUFVUIGRlbGV0ZWQuc2hpcGNvdW50cnksIGluc2VydGVkLnNoaXBjb3VudHJ5Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">T1VUUFVUIGluc2VydGVkLnNoaXBjb3VudHJ5LCBkZWxldGVkLnNoaXBjb3VudHJ5LCBkZWxldGVkLm9yZGVyaWQK</text>
+        <text encoding="base64">T1VUUFVUIGRlbGV0ZWQuc2hpcGNvdW50cnksIGluc2VydGVkLnNoaXBjb3VudHJ5Cg==</text>
       </register>
       <register name="5" type="2">
+        <text encoding="base64">T1VUUFVUIGluc2VydGVkLnNoaXBjb3VudHJ5LCBkZWxldGVkLnNoaXBjb3VudHJ5LCBkZWxldGVkLm9yZGVyaWQK</text>
+      </register>
+      <register name="6" type="2">
         <text encoding="base64">V0hFUkUgQy5jdXN0aWQgPSBkYm8uT3JkZXJzLmN1c3RpZCBBTkQgQy5jb3VudHJ5ID0gJ1VLJwo=</text>
       </register>
-      <register name="6" type="4">
+      <register name="7" type="4">
         <text>dbo.Orders.</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">U0VMRUNUICogRlJPTSBkYm8uQ3VzdG9tZXJzOwoKVVBEQVRFIGRiby5DdXN0b21lcnMKICBTRVQgcmVnaW9uID0gJzxub25lPicKT1VUUFVUIGluc2VydGVkLmN1c3RpZCwgZGVsZXRlZC5jdXN0aWQsIGRlbGV0ZWQucmVnaW9uIEFTIG9sZHJlZywgaW5zZXJ0ZWQucmVnaW9uIEFTIG5ld3JlZwpXSEVSRSByZWdpb24gSVMgTlVMTAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>action ShowErrorDescription</text>
@@ -280,7 +281,7 @@
       <shortcut-conflict owner="vim">
         <text>ctrl pressed CLOSE_BRACKET</text>
       </shortcut-conflict>
-      <shortcut-conflict owner="vim">
+      <shortcut-conflict owner="ide">
         <text>ctrl pressed P</text>
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
