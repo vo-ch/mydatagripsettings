@@ -6,6 +6,10 @@
       <file name="/Dummy.txt" timestamp="1534583496936">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="D:/skillup/TSQLFundamentals20160601/Ch09/Chapter 09 - Temporal Tables.sql" timestamp="1535055198589">
+        <mark key="[" line="23" column="0" />
+        <mark key="]" line="38" column="2" />
+      </file>
       <file name="/databases [local_sql_server]" timestamp="1533679072871">
         <mark key="[" line="0" column="0" />
       </file>
@@ -31,9 +35,10 @@
       <file name="/a.sql" timestamp="1534879256770">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/aa2c8502-966b-44b7-89e6-3a23954dadae/console.sql" timestamp="1534879501300">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/aa2c8502-966b-44b7-89e6-3a23954dadae/console.sql" timestamp="1535055581150">
+        <mark key="'" line="3" column="40" />
+        <mark key="[" line="7" column="13" />
+        <mark key="]" line="7" column="21" />
         <mark key="." line="0" column="0" />
       </file>
       <file name="D:/skillup/TSQLFundamentals20160601/Ch08/Chapter 08 - Data Modification.sql" timestamp="1534624428471">
@@ -163,7 +168,6 @@
       <jump line="2" column="24" filename="$APPLICATION_CONFIG_DIR$/consoles/db/aa2c8502-966b-44b7-89e6-3a23954dadae/console.sql" />
       <jump line="8" column="1" filename="$APPLICATION_CONFIG_DIR$/consoles/db/aa2c8502-966b-44b7-89e6-3a23954dadae/console.sql" />
       <jump line="1" column="20" filename="$APPLICATION_CONFIG_DIR$/consoles/db/aa2c8502-966b-44b7-89e6-3a23954dadae/console.sql" />
-      <jump line="3" column="28" filename="$APPLICATION_CONFIG_DIR$/consoles/db/aa2c8502-966b-44b7-89e6-3a23954dadae/console.sql" />
       <jump line="42" column="18" filename="$APPLICATION_CONFIG_DIR$/consoles/db/aa2c8502-966b-44b7-89e6-3a23954dadae/console.sql" />
       <jump line="45" column="2" filename="$APPLICATION_CONFIG_DIR$/consoles/db/aa2c8502-966b-44b7-89e6-3a23954dadae/console.sql" />
       <jump line="20" column="37" filename="$APPLICATION_CONFIG_DIR$/consoles/db/aa2c8502-966b-44b7-89e6-3a23954dadae/console.sql" />
@@ -173,6 +177,7 @@
       <jump line="283" column="5" filename="D:/skillup/TSQLFundamentals20160601/Ch08/Chapter 08 - Data Modification - Solutions.sql" />
       <jump line="47" column="50" filename="$APPLICATION_CONFIG_DIR$/consoles/db/aa2c8502-966b-44b7-89e6-3a23954dadae/console.sql" />
       <jump line="0" column="86" filename="$APPLICATION_CONFIG_DIR$/consoles/db/aa2c8502-966b-44b7-89e6-3a23954dadae/console.sql" />
+      <jump line="3" column="40" filename="$APPLICATION_CONFIG_DIR$/consoles/db/aa2c8502-966b-44b7-89e6-3a23954dadae/console.sql" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -187,8 +192,8 @@
       <register name="/" type="4">
         <text>orders</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">QUxURVIgVEFCTEUgZGJvLk9yZGVyRGV0YWlscyBEUk9QIENPTlNUUkFJTlQgRktfT3JkZXJEZXRhaWxzX09yZGVyczsK</text>
+      <register name="0" type="4">
+        <text>DATETIME2</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">RFJPUCBUQUJMRSAgZGJvLk9yZGVyRGV0YWlscywgZGJvLkN1c3RvbWVycywgZGJvLkVtcEN1c3RPcmRlcnMsIGRiby5FbXBZZWFyT3JkZXJzLCBkYm8uT3JkZXJzOwo=</text>
@@ -239,7 +244,7 @@
       <last-offset />
       <last-pattern>orders</last-pattern>
       <last-dir>-1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
