@@ -35,12 +35,12 @@
       <file name="/a.sql" timestamp="1535056550492">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/aa2c8502-966b-44b7-89e6-3a23954dadae/console.sql" timestamp="1535193175995">
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/aa2c8502-966b-44b7-89e6-3a23954dadae/console.sql" timestamp="1535194172883">
         <mark key="'" line="1" column="23" />
-        <mark key="[" line="8" column="0" />
-        <mark key="]" line="11" column="21" />
-        <mark key="." line="11" column="21" />
-        <mark key="^" line="11" column="21" />
+        <mark key="[" line="17" column="16" />
+        <mark key="]" line="19" column="11" />
+        <mark key="." line="19" column="11" />
+        <mark key="^" line="19" column="11" />
       </file>
       <file name="D:/skillup/TSQLFundamentals20160601/Ch08/Chapter 08 - Data Modification.sql" timestamp="1534624428471">
         <mark key="'" line="759" column="0" />
@@ -188,13 +188,13 @@
         <text>[]</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>Sales</text>
       </register>
       <register name="/" type="4">
         <text>orders</text>
       </register>
-      <register name="0" type="4">
-        <text>empid, empname, department, salary, sysstart, sysend</text>
+      <register name="0" type="2">
+        <text encoding="base64">VVBEQVRFIGRiby5FbXBsb3llZXMKICBTRVQgZGVwYXJ0bWVudCA9ICdTYWxlcycKV0hFUkUgZW1waWQgPSA1Owo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">REVMRVRFIEZST00gZGJvLkVtcGxveWVlcyBXSEVSRSBlbXBpZCA9IDY7Cg==</text>
