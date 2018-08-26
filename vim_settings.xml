@@ -35,10 +35,11 @@
       <file name="/a.sql" timestamp="1535056550492">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/aa2c8502-966b-44b7-89e6-3a23954dadae/console.sql" timestamp="1535300504656">
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/aa2c8502-966b-44b7-89e6-3a23954dadae/console.sql" timestamp="1535308440670">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
+        <mark key="^" line="0" column="45" />
       </file>
       <file name="D:/skillup/TSQLFundamentals20160601/Ch08/Chapter 08 - Data Modification.sql" timestamp="1534624428471">
         <mark key="'" line="759" column="0" />
@@ -167,7 +168,6 @@
       <jump line="47" column="50" filename="$APPLICATION_CONFIG_DIR$/consoles/db/aa2c8502-966b-44b7-89e6-3a23954dadae/console.sql" />
       <jump line="0" column="23" filename="$APPLICATION_CONFIG_DIR$/consoles/db/aa2c8502-966b-44b7-89e6-3a23954dadae/console.sql" />
       <jump line="14" column="54" filename="$APPLICATION_CONFIG_DIR$/consoles/db/aa2c8502-966b-44b7-89e6-3a23954dadae/console.sql" />
-      <jump line="1" column="23" filename="$APPLICATION_CONFIG_DIR$/consoles/db/aa2c8502-966b-44b7-89e6-3a23954dadae/console.sql" />
       <jump line="5" column="53" filename="$APPLICATION_CONFIG_DIR$/consoles/db/aa2c8502-966b-44b7-89e6-3a23954dadae/console.sql" />
       <jump line="10" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/aa2c8502-966b-44b7-89e6-3a23954dadae/console.sql" />
       <jump line="39" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/aa2c8502-966b-44b7-89e6-3a23954dadae/console.sql" />
@@ -177,6 +177,7 @@
       <jump line="8" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/aa2c8502-966b-44b7-89e6-3a23954dadae/console.sql" />
       <jump line="11" column="2" filename="$APPLICATION_CONFIG_DIR$/consoles/db/aa2c8502-966b-44b7-89e6-3a23954dadae/console.sql" />
       <jump line="4" column="9" filename="$APPLICATION_CONFIG_DIR$/consoles/db/aa2c8502-966b-44b7-89e6-3a23954dadae/console.sql" />
+      <jump line="1" column="42" filename="$APPLICATION_CONFIG_DIR$/consoles/db/aa2c8502-966b-44b7-89e6-3a23954dadae/console.sql" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -186,7 +187,7 @@
         <text>[]</text>
       </register>
       <register name="-" type="4">
-        <text>'Sales and Marketing'</text>
+        <text>Departments</text>
       </register>
       <register name="/" type="4">
         <text>orders</text>
@@ -195,7 +196,7 @@
         <text encoding="base64">ICAgICAgICgxLCAnSFInLCA3KSwK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">U0VMRUNUIFNZU1VUQ0RBVEVUSU1FKCk7CgpVUERBVEUgZGJvLkRlcGFydG1lbnRzClNFVCBtZ3JpZCA9IDEzCldIRVJFIGRlcHRpZCA9IDM7Cg==</text>
+        <text encoding="base64">U0VMRUNUIGRlcHRpZCwgZGVwdG5hbWUsIG1ncmlkLCB2YWxpZGZyb20sIHZhbGlkdG8gRlJPTSBkYm8uRGVwYXJ0bWVudHMKRk9SIFNZU1RFTV9USU1FIEJFVFdFRU4gJzIwMTgtMDgtMjYgMTY6MTg6MzAnIEFORCAnMjAxOC0wOC0yNiAxNjoyMDoyNycKCkFMVEVSIFRBQkxFIGRiby5EZXBhcnRtZW50cwogICBTRVQgKFNZU1RFTV9WRVJTSU9OSU5HID0gT0ZGKQoKRFJPUCBUQUJMRSBkYm8uRW1wbG95ZWVzLCBkYm8uRW1wbG95ZWVzSGlzdG9yeTsK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -211,28 +212,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Q09NTUlUIFRSQU47Cg==</text>
+        <text encoding="base64">U0VMRUNUIFNZU1VUQ0RBVEVUSU1FKCk7CgpVUERBVEUgZGJvLkRlcGFydG1lbnRzClNFVCBtZ3JpZCA9IDEzCldIRVJFIGRlcHRpZCA9IDM7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">QkVHSU4gVFJBTjsK</text>
+        <text encoding="base64">Q09NTUlUIFRSQU47Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">QkVHSU4gVFJBTjsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">REVMRVRFIEZST00gZGJvLkRlcGFydG1lbnRzIFdIRVJFIGRlcHRpZCA9IDQ7Cg==</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">REVMRVRFIEZST00gZGJvLkRlcGFydG1lbnRzIFdIRVJFIGRlcHRpZCA9IDQ7Cg==</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">SU5TRVJUIElOVE8gZGJvLkRlcGFydG1lbnRzIChkZXB0aWQsIGRlcHRuYW1lLCBtZ3JpZCkKVkFMVUVTICgxLCAnSFInLCA3KSwKICAgICAgICgyLCAnSVQnLCA1KSwKICAgICAgICgzLCAnU2FsZXMnLCAxMSksCiAgICAgICAoNCwgJ01hcmtldGluZycsIDEzKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Q1JFQVRFIFRBQkxFIGRiby5EZXBhcnRtZW50cwooCiAgZGVwdGlkIElOVCBOT1QgTlVMTAogICAgUFJJTUFSWSBLRVkgIE5PTkNMVVNURVJFRCwKICBkZXB0bmFtZSBWQVJDSEFSKDI1KSBOT1QgTlVMTCwKICBtZ3JpZCBJTlQgTk9UIE5VTEwsCiAgdmFsaWRmcm9tIERBVEVUSU1FMigwKQogIEdFTkVSQVRFRCBBTFdBWVMgQVMgUk9XIFNUQVJUIEhJRERFTiBOT1QgTlVMTCwKICB2YWxpZHRvIERBVEVUSU1FMigwKQogIEdFTkVSQVRFRCBBTFdBWVMgQVMgUk9XIEVORCBISURERU4gTk9UIE5VTEwsCiAgUEVSSU9EIEZPUiBTWVNURU1fVElNRSAodmFsaWRmcm9tLCB2YWxpZHRvKSwKICBJTkRFWCBpeF9EZXBhcnRtZW50cyBDTFVTVEVSRUQgKGRlcHRpZCwgdmFsaWRmcm9tLCB2YWxpZHRvKQo=</text>
+        <text encoding="base64">SU5TRVJUIElOVE8gZGJvLkRlcGFydG1lbnRzIChkZXB0aWQsIGRlcHRuYW1lLCBtZ3JpZCkKVkFMVUVTICgxLCAnSFInLCA3KSwKICAgICAgICgyLCAnSVQnLCA1KSwKICAgICAgICgzLCAnU2FsZXMnLCAxMSksCiAgICAgICAoNCwgJ01hcmtldGluZycsIDEzKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">KSBXSVRIICggU1lTVEVNX1ZFUlNJT05JTkcgPSBPTiAoIEhJU1RPUllfVEFCTEUgPSBkYm8uRGVwYXJ0bWVudHNIaXN0b3J5KSApCg==</text>
+        <text encoding="base64">Q1JFQVRFIFRBQkxFIGRiby5EZXBhcnRtZW50cwooCiAgZGVwdGlkIElOVCBOT1QgTlVMTAogICAgUFJJTUFSWSBLRVkgIE5PTkNMVVNURVJFRCwKICBkZXB0bmFtZSBWQVJDSEFSKDI1KSBOT1QgTlVMTCwKICBtZ3JpZCBJTlQgTk9UIE5VTEwsCiAgdmFsaWRmcm9tIERBVEVUSU1FMigwKQogIEdFTkVSQVRFRCBBTFdBWVMgQVMgUk9XIFNUQVJUIEhJRERFTiBOT1QgTlVMTCwKICB2YWxpZHRvIERBVEVUSU1FMigwKQogIEdFTkVSQVRFRCBBTFdBWVMgQVMgUk9XIEVORCBISURERU4gTk9UIE5VTEwsCiAgUEVSSU9EIEZPUiBTWVNURU1fVElNRSAodmFsaWRmcm9tLCB2YWxpZHRvKSwKICBJTkRFWCBpeF9EZXBhcnRtZW50cyBDTFVTVEVSRUQgKGRlcHRpZCwgdmFsaWRmcm9tLCB2YWxpZHRvKQo=</text>
       </register>
       <register name=":" type="4">
         <text>reg</text>
