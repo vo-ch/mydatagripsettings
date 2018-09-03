@@ -26,5 +26,6 @@
     <mouse-shortcut keystroke="alt button2" />
     <keyboard-shortcut first-keystroke="alt d" />
   </action>
+  <action id="Replace" />
   <action id="SelectNextOccurrence" />
 </keymap>
