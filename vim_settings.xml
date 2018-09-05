@@ -3,7 +3,7 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1536086815545">
+      <file name="/Dummy.txt" timestamp="1536136740383">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -16,6 +16,9 @@
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/tsqlv4.dbo.orderdetails [local_sql_server]" timestamp="1534879281501">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/auth_qa.public.Clients [postgresauth]" timestamp="1536137239479">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="D:/skillup/TSQLFundamentals20160601/Ch05/Chapter 05 - Table Expressions.sql" timestamp="1533484442427">
@@ -34,13 +37,13 @@
       <file name="$APPLICATION_CONFIG_DIR$/consoles/.datagrid/cell" timestamp="1535056885723">
         <mark key="'" line="0" column="0" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/52a3f802-8fc1-4b32-9b34-d625b3ef9428/console.sql" timestamp="1536089372654">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="^" line="0" column="17" />
-        <mark key="." line="0" column="0" />
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/52a3f802-8fc1-4b32-9b34-d625b3ef9428/console.sql" timestamp="1536136927437">
+        <mark key="[" line="0" column="14" />
+        <mark key="]" line="0" column="14" />
+        <mark key="^" line="0" column="20" />
+        <mark key="." line="0" column="14" />
       </file>
-      <file name="/a.sql" timestamp="1535056550492">
+      <file name="/a.sql" timestamp="1536137227600">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/aa2c8502-966b-44b7-89e6-3a23954dadae/console.sql" timestamp="1536090230341">
@@ -87,7 +90,7 @@
         <mark key="^" line="128" column="6" />
         <mark key="n" line="36" column="1" />
       </file>
-      <file name="/dummy.sql" timestamp="1535056550523">
+      <file name="/dummy.sql" timestamp="1536137241749">
         <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
@@ -201,7 +204,7 @@
         <text>[]</text>
       </register>
       <register name="-" type="4">
-        <text>as P</text>
+        <text>public.</text>
       </register>
       <register name="/" type="4">
         <text>orders</text>
