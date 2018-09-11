@@ -46,8 +46,8 @@
       <file name="/a.sql" timestamp="1536137227600">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/aa2c8502-966b-44b7-89e6-3a23954dadae/console.sql" timestamp="1536090230341">
-        <mark key="'" line="7" column="19" />
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/aa2c8502-966b-44b7-89e6-3a23954dadae/console.sql" timestamp="1536692677704">
+        <mark key="'" line="7" column="0" />
         <mark key="[" line="12" column="0" />
         <mark key="]" line="12" column="13" />
         <mark key="." line="8" column="0" />
@@ -142,7 +142,6 @@
       <jump line="8" column="0" filename="D:/skillup/TSQLFundamentals20160601/Ch07/Chapter 07 - Beyond the Fundamentals of Querying - Solutions.sql" />
       <jump line="16" column="21" filename="$APPLICATION_CONFIG_DIR$/consoles/db/aa2c8502-966b-44b7-89e6-3a23954dadae/console.sql" />
       <jump line="0" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/.datagrid/cell" />
-      <jump line="6" column="71" filename="$APPLICATION_CONFIG_DIR$/consoles/db/aa2c8502-966b-44b7-89e6-3a23954dadae/console.sql" />
       <jump line="30" column="38" filename="$APPLICATION_CONFIG_DIR$/consoles/db/aa2c8502-966b-44b7-89e6-3a23954dadae/console.sql" />
       <jump line="292" column="0" filename="D:/skillup/TSQLFundamentals20160601/Ch08/Chapter 08 - Data Modification.sql" />
       <jump line="293" column="0" filename="D:/skillup/TSQLFundamentals20160601/Ch08/Chapter 08 - Data Modification.sql" />
@@ -194,7 +193,8 @@
       <jump line="11" column="2" filename="$APPLICATION_CONFIG_DIR$/consoles/db/aa2c8502-966b-44b7-89e6-3a23954dadae/console.sql" />
       <jump line="4" column="9" filename="$APPLICATION_CONFIG_DIR$/consoles/db/aa2c8502-966b-44b7-89e6-3a23954dadae/console.sql" />
       <jump line="1" column="42" filename="$APPLICATION_CONFIG_DIR$/consoles/db/aa2c8502-966b-44b7-89e6-3a23954dadae/console.sql" />
-      <jump line="7" column="19" filename="$APPLICATION_CONFIG_DIR$/consoles/db/aa2c8502-966b-44b7-89e6-3a23954dadae/console.sql" />
+      <jump line="6" column="14" filename="$APPLICATION_CONFIG_DIR$/consoles/db/aa2c8502-966b-44b7-89e6-3a23954dadae/console.sql" />
+      <jump line="7" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/aa2c8502-966b-44b7-89e6-3a23954dadae/console.sql" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -287,7 +287,6 @@
         <entry>orders</entry>
       </history-search>
       <history-cmd>
-        <entry>q</entry>
         <entry>help</entry>
         <entry>action AceAction</entry>
         <entry>action AceLineAction</entry>
@@ -307,6 +306,7 @@
         <entry>action GotoImplementation</entry>
         <entry>action ShowErrorDescription</entry>
         <entry>reg</entry>
+        <entry>iskeyword</entry>
       </history-cmd>
       <history-expr />
       <history-input />
