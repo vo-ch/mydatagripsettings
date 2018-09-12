@@ -46,12 +46,12 @@
       <file name="/a.sql" timestamp="1536137227600">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/aa2c8502-966b-44b7-89e6-3a23954dadae/console.sql" timestamp="1536692677704">
-        <mark key="'" line="7" column="0" />
-        <mark key="[" line="12" column="0" />
-        <mark key="]" line="12" column="13" />
-        <mark key="." line="8" column="0" />
-        <mark key="^" line="8" column="0" />
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/aa2c8502-966b-44b7-89e6-3a23954dadae/console.sql" timestamp="1536783024556">
+        <mark key="'" line="8" column="0" />
+        <mark key="[" line="12" column="51" />
+        <mark key="]" line="12" column="54" />
+        <mark key="." line="12" column="54" />
+        <mark key="^" line="12" column="54" />
       </file>
       <file name="D:/skillup/TSQLFundamentals20160601/Ch08/Chapter 08 - Data Modification.sql" timestamp="1534624428471">
         <mark key="'" line="759" column="0" />
@@ -67,10 +67,12 @@
       <file name="/t1 [local_sql_server]" timestamp="1533846740669">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/aa2c8502-966b-44b7-89e6-3a23954dadae/console_1.sql" timestamp="1536090232473">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="14" />
-        <mark key="." line="0" column="0" />
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/aa2c8502-966b-44b7-89e6-3a23954dadae/console_1.sql" timestamp="1536783008863">
+        <mark key="'" line="6" column="0" />
+        <mark key="[" line="0" column="41" />
+        <mark key="]" line="1" column="0" />
+        <mark key="." line="1" column="0" />
+        <mark key="^" line="1" column="0" />
       </file>
       <file name="/all_columns [local_sql_server]" timestamp="1533678587876">
         <mark key="[" line="0" column="0" />
@@ -81,6 +83,11 @@
         <mark key="]" line="242" column="74" />
         <mark key="." line="242" column="34" />
         <mark key="^" line="218" column="18" />
+      </file>
+      <file name="D:/skillup/TSQLFundamentals20160601/Ch10/Chapter 10 - Transactions and Concurrency.sql" timestamp="1536782865431">
+        <mark key="'" line="286" column="32" />
+        <mark key="[" line="302" column="0" />
+        <mark key="]" line="306" column="22" />
       </file>
       <file name="D:/skillup/TSQLFundamentals20160601/Ch07/Chapter 07 - Beyond the Fundamentals of Querying - Solutions.sql" timestamp="1533584726548">
         <mark key="'" line="46" column="0" />
@@ -95,13 +102,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="261" column="3" filename="D:/skillup/TSQLFundamentals20160601/Ch07/Chapter 07 - Beyond the Fundamentals of Querying - Solutions.sql" />
-      <jump line="51" column="0" filename="D:/skillup/TSQLFundamentals20160601/Ch07/Chapter 07 - Beyond the Fundamentals of Querying - Solutions.sql" />
-      <jump line="148" column="2" filename="D:/skillup/TSQLFundamentals20160601/Ch07/Chapter 07 - Beyond the Fundamentals of Querying - Solutions.sql" />
-      <jump line="104" column="9" filename="D:/skillup/TSQLFundamentals20160601/Ch07/Chapter 07 - Beyond the Fundamentals of Querying - Solutions.sql" />
-      <jump line="112" column="51" filename="D:/skillup/TSQLFundamentals20160601/Ch07/Chapter 07 - Beyond the Fundamentals of Querying - Solutions.sql" />
-      <jump line="122" column="6" filename="D:/skillup/TSQLFundamentals20160601/Ch07/Chapter 07 - Beyond the Fundamentals of Querying - Solutions.sql" />
-      <jump line="98" column="6" filename="D:/skillup/TSQLFundamentals20160601/Ch07/Chapter 07 - Beyond the Fundamentals of Querying - Solutions.sql" />
       <jump line="110" column="0" filename="D:/skillup/TSQLFundamentals20160601/Ch07/Chapter 07 - Beyond the Fundamentals of Querying - Solutions.sql" />
       <jump line="152" column="0" filename="D:/skillup/TSQLFundamentals20160601/Ch07/Chapter 07 - Beyond the Fundamentals of Querying - Solutions.sql" />
       <jump line="143" column="29" filename="D:/skillup/TSQLFundamentals20160601/Ch07/Chapter 07 - Beyond the Fundamentals of Querying - Solutions.sql" />
@@ -189,12 +189,19 @@
       <jump line="39" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/aa2c8502-966b-44b7-89e6-3a23954dadae/console.sql" />
       <jump line="2" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/aa2c8502-966b-44b7-89e6-3a23954dadae/console.sql" />
       <jump line="3" column="17" filename="$APPLICATION_CONFIG_DIR$/consoles/db/aa2c8502-966b-44b7-89e6-3a23954dadae/console.sql" />
-      <jump line="8" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/aa2c8502-966b-44b7-89e6-3a23954dadae/console.sql" />
       <jump line="11" column="2" filename="$APPLICATION_CONFIG_DIR$/consoles/db/aa2c8502-966b-44b7-89e6-3a23954dadae/console.sql" />
       <jump line="4" column="9" filename="$APPLICATION_CONFIG_DIR$/consoles/db/aa2c8502-966b-44b7-89e6-3a23954dadae/console.sql" />
       <jump line="1" column="42" filename="$APPLICATION_CONFIG_DIR$/consoles/db/aa2c8502-966b-44b7-89e6-3a23954dadae/console.sql" />
       <jump line="6" column="14" filename="$APPLICATION_CONFIG_DIR$/consoles/db/aa2c8502-966b-44b7-89e6-3a23954dadae/console.sql" />
       <jump line="7" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/aa2c8502-966b-44b7-89e6-3a23954dadae/console.sql" />
+      <jump line="8" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/aa2c8502-966b-44b7-89e6-3a23954dadae/console.sql" />
+      <jump line="0" column="0" filename="D:/skillup/TSQLFundamentals20160601/Ch10/Chapter 10 - Transactions and Concurrency.sql" />
+      <jump line="56" column="41" filename="D:/skillup/TSQLFundamentals20160601/Ch10/Chapter 10 - Transactions and Concurrency.sql" />
+      <jump line="282" column="7" filename="D:/skillup/TSQLFundamentals20160601/Ch10/Chapter 10 - Transactions and Concurrency.sql" />
+      <jump line="285" column="9" filename="D:/skillup/TSQLFundamentals20160601/Ch10/Chapter 10 - Transactions and Concurrency.sql" />
+      <jump line="286" column="32" filename="D:/skillup/TSQLFundamentals20160601/Ch10/Chapter 10 - Transactions and Concurrency.sql" />
+      <jump line="5" column="22" filename="$APPLICATION_CONFIG_DIR$/consoles/db/aa2c8502-966b-44b7-89e6-3a23954dadae/console_1.sql" />
+      <jump line="6" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/aa2c8502-966b-44b7-89e6-3a23954dadae/console_1.sql" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -204,16 +211,16 @@
         <text>[]</text>
       </register>
       <register name="-" type="4">
-        <text>public.</text>
+        <text>ON</text>
       </register>
       <register name="/" type="4">
-        <text>orders</text>
+        <text>snapshot</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">U0VMRUNUIEBAU1BJRDsK</text>
+        <text encoding="base64">QkVHSU4gVFJBTjsKCiAgU0VMRUNUIHByb2R1Y3RpZCwgdW5pdHByaWNlCiAgRlJPTSBQcm9kdWN0aW9uLlByb2R1Y3RzCiAgV0hFUkUgcHJvZHVjdGlkID0gMjsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">U0VMRUNUICogRlJPTSBkYm8uTnVtcwo=</text>
+        <text encoding="base64">ClNFTEVDVAoK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -229,43 +236,42 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">U0VMRUNUICogRlJPTSBzeXMuCg==</text>
+        <text encoding="base64">U0VMRUNUIHByb2R1Y3RpZCwgdW5pdHByaWNlCkZST00gUHJvZHVjdGlvbi5Qcm9kdWN0cwpXSEVSRSBwcm9kdWN0aWQgPSAyCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICJBdXRoRGF0YWJhc2UiOiAiVXNlciBJRD1hdXRoX3FhO1BkZAo=</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">U0VMRUNUIGRlcHRpZCwgZGVwdG5hbWUsIG1ncmlkLCB2YWxpZGZyb20sIHZhbGlkdG8gRlJPTSBkYm8uRGVwYXJ0bWVudHMKRk9SIFNZU1RFTV9USU1FIEJFVFdFRU4gJzIwMTgtMDgtMjYgMTY6MTg6MzAnIEFORCAnMjAxOC0wOC0yNiAxNjoyMDoyNycKCkFMVEVSIFRBQkxFIGRiby5EZXBhcnRtZW50cwogICBTRVQgKFNZU1RFTV9WRVJTSU9OSU5HID0gT0ZGKQoKRFJPUCBUQUJMRSBkYm8uRW1wbG95ZWVzLCBkYm8uRW1wbG95ZWVzSGlzdG9yeTsK</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">U0VMRUNUIFNZU1VUQ0RBVEVUSU1FKCk7CgpVUERBVEUgZGJvLkRlcGFydG1lbnRzClNFVCBtZ3JpZCA9IDEzCldIRVJFIGRlcHRpZCA9IDM7Cg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">Q09NTUlUIFRSQU47Cg==</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">QkVHSU4gVFJBTjsK</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">VVBEQVRFIFByb2R1Y3Rpb24uUHJvZHVjdHMKU0VUIHVuaXRwcmljZSArPSAxLjAwCldIRVJFIHByb2R1Y3RpZCA9IDIKClNFTEVDVCBwcm9kdWN0aWQsIHVuaXRwcmljZQpGUk9NIFByb2R1Y3Rpb24uUHJvZHVjdHMKV0hFUkUgcHJvZHVjdGlkID0gMgoKUk9MTEJBQ0sgVFJBTlNBQ1RJT04gOwoKVVBEQVRFIFByb2R1Y3Rpb24uUHJvZHVjdHMKU0VUIHVuaXRwcmljZSAtPSAxLjAwCldIRVJFIHByb2R1Y3RpZCA9IDIK</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">U0VMRUNUICogRlJPTSBkYm8uTnVtcwo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">U0VMRUNUICogRlJPTSBzeXMuCg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICJBdXRoRGF0YWJhc2UiOiAiVXNlciBJRD1hdXRoX3FhO1BkZAo=</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">REVMRVRFIEZST00gZGJvLkRlcGFydG1lbnRzIFdIRVJFIGRlcHRpZCA9IDQ7Cg==</text>
+        <text encoding="base64">U0VMRUNUIGRlcHRpZCwgZGVwdG5hbWUsIG1ncmlkLCB2YWxpZGZyb20sIHZhbGlkdG8gRlJPTSBkYm8uRGVwYXJ0bWVudHMKRk9SIFNZU1RFTV9USU1FIEJFVFdFRU4gJzIwMTgtMDgtMjYgMTY6MTg6MzAnIEFORCAnMjAxOC0wOC0yNiAxNjoyMDoyNycKCkFMVEVSIFRBQkxFIGRiby5EZXBhcnRtZW50cwogICBTRVQgKFNZU1RFTV9WRVJTSU9OSU5HID0gT0ZGKQoKRFJPUCBUQUJMRSBkYm8uRW1wbG95ZWVzLCBkYm8uRW1wbG95ZWVzSGlzdG9yeTsK</text>
       </register>
       <register name=":" type="4">
         <text>reg</text>
       </register>
     </registers>
     <search>
-      <last-search>orders</last-search>
+      <last-search>snapshot</last-search>
       <last-offset />
-      <last-pattern>orders</last-pattern>
-      <last-dir>-1</last-dir>
-      <show-last>false</show-last>
+      <last-pattern>snapshot</last-pattern>
+      <last-dir>1</last-dir>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry>case</entry>
         <entry>from</entry>
         <entry encoding="base64">IA==</entry>
         <entry>xxxxxxxxxxxxxxx</entry>
@@ -285,6 +291,7 @@
         <entry>drop</entry>
         <entry>sh</entry>
         <entry>orders</entry>
+        <entry>snapshot</entry>
       </history-search>
       <history-cmd>
         <entry>help</entry>
