@@ -46,12 +46,12 @@
       <file name="/a.sql" timestamp="1536137227600">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/aa2c8502-966b-44b7-89e6-3a23954dadae/console.sql" timestamp="1538511948550">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="3" column="12" />
-        <mark key="]" line="3" column="13" />
-        <mark key="." line="3" column="13" />
-        <mark key="^" line="1" column="15" />
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/aa2c8502-966b-44b7-89e6-3a23954dadae/console.sql" timestamp="1538513017762">
+        <mark key="'" line="1" column="41" />
+        <mark key="[" line="1" column="31" />
+        <mark key="]" line="1" column="32" />
+        <mark key="." line="1" column="32" />
+        <mark key="^" line="1" column="32" />
       </file>
       <file name="D:/skillup/TSQLFundamentals20160601/Ch08/Chapter 08 - Data Modification.sql" timestamp="1534624428471">
         <mark key="'" line="759" column="0" />
@@ -189,7 +189,6 @@
       <jump line="39" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/aa2c8502-966b-44b7-89e6-3a23954dadae/console.sql" />
       <jump line="2" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/aa2c8502-966b-44b7-89e6-3a23954dadae/console.sql" />
       <jump line="11" column="2" filename="$APPLICATION_CONFIG_DIR$/consoles/db/aa2c8502-966b-44b7-89e6-3a23954dadae/console.sql" />
-      <jump line="1" column="42" filename="$APPLICATION_CONFIG_DIR$/consoles/db/aa2c8502-966b-44b7-89e6-3a23954dadae/console.sql" />
       <jump line="6" column="14" filename="$APPLICATION_CONFIG_DIR$/consoles/db/aa2c8502-966b-44b7-89e6-3a23954dadae/console.sql" />
       <jump line="7" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/aa2c8502-966b-44b7-89e6-3a23954dadae/console.sql" />
       <jump line="8" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/aa2c8502-966b-44b7-89e6-3a23954dadae/console.sql" />
@@ -202,16 +201,17 @@
       <jump line="6" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/aa2c8502-966b-44b7-89e6-3a23954dadae/console_1.sql" />
       <jump line="3" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/aa2c8502-966b-44b7-89e6-3a23954dadae/console.sql" />
       <jump line="4" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/aa2c8502-966b-44b7-89e6-3a23954dadae/console.sql" />
+      <jump line="1" column="41" filename="$APPLICATION_CONFIG_DIR$/consoles/db/aa2c8502-966b-44b7-89e6-3a23954dadae/console.sql" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIFNFTEVDVCAqIEZST00gVkFMVUVTKDIpCg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="*" type="4">
         <text>[]</text>
       </register>
       <register name="-" type="4">
-        <text>, (2)</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>snapshot</text>
