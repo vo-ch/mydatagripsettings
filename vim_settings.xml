@@ -46,12 +46,12 @@
       <file name="/a.sql" timestamp="1536137227600">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/aa2c8502-966b-44b7-89e6-3a23954dadae/console.sql" timestamp="1538911467511">
-        <mark key="'" line="3" column="25" />
-        <mark key="[" line="6" column="47" />
-        <mark key="]" line="6" column="47" />
-        <mark key="." line="6" column="47" />
-        <mark key="^" line="6" column="47" />
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/aa2c8502-966b-44b7-89e6-3a23954dadae/console.sql" timestamp="1538942166546">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="19" column="63" />
+        <mark key="]" line="19" column="71" />
+        <mark key="." line="19" column="71" />
+        <mark key="^" line="19" column="71" />
       </file>
       <file name="D:/skillup/TSQLFundamentals20160601/Ch08/Chapter 08 - Data Modification.sql" timestamp="1534624428471">
         <mark key="'" line="759" column="0" />
@@ -169,7 +169,6 @@
       <jump line="38" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/aa2c8502-966b-44b7-89e6-3a23954dadae/console.sql" />
       <jump line="21" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/aa2c8502-966b-44b7-89e6-3a23954dadae/console.sql" />
       <jump line="40" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/aa2c8502-966b-44b7-89e6-3a23954dadae/console.sql" />
-      <jump line="15" column="51" filename="$APPLICATION_CONFIG_DIR$/consoles/db/aa2c8502-966b-44b7-89e6-3a23954dadae/console.sql" />
       <jump line="12" column="27" filename="$APPLICATION_CONFIG_DIR$/consoles/db/aa2c8502-966b-44b7-89e6-3a23954dadae/console.sql" />
       <jump line="13" column="33" filename="$APPLICATION_CONFIG_DIR$/consoles/db/aa2c8502-966b-44b7-89e6-3a23954dadae/console.sql" />
       <jump line="577" column="0" filename="D:/skillup/TSQLFundamentals20160601/Ch08/Chapter 08 - Data Modification.sql" />
@@ -184,12 +183,10 @@
       <jump line="34" column="39" filename="$APPLICATION_CONFIG_DIR$/consoles/db/aa2c8502-966b-44b7-89e6-3a23954dadae/console.sql" />
       <jump line="283" column="5" filename="D:/skillup/TSQLFundamentals20160601/Ch08/Chapter 08 - Data Modification - Solutions.sql" />
       <jump line="47" column="50" filename="$APPLICATION_CONFIG_DIR$/consoles/db/aa2c8502-966b-44b7-89e6-3a23954dadae/console.sql" />
-      <jump line="0" column="23" filename="$APPLICATION_CONFIG_DIR$/consoles/db/aa2c8502-966b-44b7-89e6-3a23954dadae/console.sql" />
       <jump line="14" column="54" filename="$APPLICATION_CONFIG_DIR$/consoles/db/aa2c8502-966b-44b7-89e6-3a23954dadae/console.sql" />
       <jump line="5" column="53" filename="$APPLICATION_CONFIG_DIR$/consoles/db/aa2c8502-966b-44b7-89e6-3a23954dadae/console.sql" />
       <jump line="10" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/aa2c8502-966b-44b7-89e6-3a23954dadae/console.sql" />
       <jump line="39" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/aa2c8502-966b-44b7-89e6-3a23954dadae/console.sql" />
-      <jump line="2" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/aa2c8502-966b-44b7-89e6-3a23954dadae/console.sql" />
       <jump line="11" column="2" filename="$APPLICATION_CONFIG_DIR$/consoles/db/aa2c8502-966b-44b7-89e6-3a23954dadae/console.sql" />
       <jump line="6" column="14" filename="$APPLICATION_CONFIG_DIR$/consoles/db/aa2c8502-966b-44b7-89e6-3a23954dadae/console.sql" />
       <jump line="7" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/aa2c8502-966b-44b7-89e6-3a23954dadae/console.sql" />
@@ -207,25 +204,28 @@
       <jump line="3" column="25" filename="$APPLICATION_CONFIG_DIR$/consoles/db/aa2c8502-966b-44b7-89e6-3a23954dadae/console.sql" />
       <jump line="270" column="8" filename="D:/skillup/TSQLFundamentals20160601/Ch11/Chapter 11 - Programmable Objects.sql" />
       <jump line="473" column="8" filename="D:/skillup/TSQLFundamentals20160601/Ch11/Chapter 11 - Programmable Objects.sql" />
+      <jump line="2" column="21" filename="$APPLICATION_CONFIG_DIR$/consoles/db/aa2c8502-966b-44b7-89e6-3a23954dadae/console.sql" />
+      <jump line="15" column="5" filename="$APPLICATION_CONFIG_DIR$/consoles/db/aa2c8502-966b-44b7-89e6-3a23954dadae/console.sql" />
+      <jump line="0" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/aa2c8502-966b-44b7-89e6-3a23954dadae/console.sql" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>FETCH_STATUS</text>
+        <text>)</text>
       </register>
       <register name="*" type="4">
         <text>[]</text>
       </register>
       <register name="-" type="4">
-        <text>G</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxGRVRDSF9TVEFUVVNcPg==</text>
       </register>
       <register name="0" type="4">
-        <text>Globals</text>
+        <text>100 * MONTH(@eventdate) + DAY(@eventdate)</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Q1JFQVRFIFRBQkxFICMjR2xvYmFscwooCiAgaWQgc3lzbmFtZSBOT1QgTlVMTCBQUklNQVJZIEtFWSwKICB2YWwgU1FMX1ZBUklBTlQgTk9UIE5VTEwKKQoKSU5TRVJUIElOVE8gIyNHbG9iYWxzKGlkLCB2YWwpIFZBTFVFUyhOJ2knLCAxMCk7Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -241,31 +241,31 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">SUYgWUVBUihTWVNEQVRFVElNRSgpKSA8PiBZRUFSKERBVEVBREQoZGF5LCAxLCBTWVNEQVRFVElNRSgpKSkKICAgIFNFTEVDVCAqIEZST00gKFZBTFVFUyAoMSksICgyKSkgYXMgTnVtcyhuKTsKRUxTRQogICAgU0VMRUNUICgyKQo=</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">QkVHSU4gVFJBTlNBQ1RJT047CgpVUERBVEUgUHJvZHVjdGlvbi5Qcm9kdWN0cwpTRVQgdW5pdHByaWNlICs9IDEuMDAKV0hFUkUgcHJvZHVjdGlkID0gMzsK</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIFNFTEVDVCAqIEZST00gVkFMVUVTKDIpCg==</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">SUYgWUVBUihTWVNEQVRFVElNRSgpKSA8PiBZRUFSKERBVEVBREQoZGF5LCAxLCBTWVNEQVRFVElNRSgpKSkKICAgIFNFTEVDVCAqIEZST00gKFZBTFVFUyAoMSksICgyKSkgYXMgTnVtcyhuKTsKRUxTRQogICAgU0VMRUNUICgyKQo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">QkVHSU4gVFJBTlNBQ1RJT047CgpVUERBVEUgUHJvZHVjdGlvbi5Qcm9kdWN0cwpTRVQgdW5pdHByaWNlICs9IDEuMDAKV0hFUkUgcHJvZHVjdGlkID0gMzsK</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIFNFTEVDVCAqIEZST00gVkFMVUVTKDIpCg==</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIFMK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">QkVHSU4gVFJBTlNBQ1RJT047CgpVUERBVEUgUHJvZHVjdGlvbi5Qcm9kdWN0cwogIFNFVCB1bml0cHJpY2UgKz0gMS4wMApXSEVSRSBwcm9kdWN0aWQgPSAyOwo=</text>
+        <text encoding="base64">ICAgIFMK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ClNFTEVDVAoK</text>
+        <text encoding="base64">QkVHSU4gVFJBTlNBQ1RJT047CgpVUERBVEUgUHJvZHVjdGlvbi5Qcm9kdWN0cwogIFNFVCB1bml0cHJpY2UgKz0gMS4wMApXSEVSRSBwcm9kdWN0aWQgPSAyOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">U0VMRUNUIHByb2R1Y3RpZCwgdW5pdHByaWNlCkZST00gUHJvZHVjdGlvbi5Qcm9kdWN0cwpXSEVSRSBwcm9kdWN0aWQgPSAyCg==</text>
+        <text encoding="base64">ClNFTEVDVAoK</text>
       </register>
       <register name=":" type="4">
-        <text>action ShowErrorDescription</text>
+        <text>action RenameElement</text>
       </register>
     </registers>
     <search>
@@ -299,7 +299,6 @@
         <entry encoding="base64">XDxGRVRDSF9TVEFUVVNcPg==</entry>
       </history-search>
       <history-cmd>
-        <entry>help</entry>
         <entry>action AceAction</entry>
         <entry>action AceLineAction</entry>
         <entry encoding="base64">JzwsJz5ub3JtYWwgfg==</entry>
@@ -319,6 +318,7 @@
         <entry>reg</entry>
         <entry>iskeyword</entry>
         <entry>action ShowErrorDescription</entry>
+        <entry>action RenameElement</entry>
       </history-cmd>
       <history-expr />
       <history-input />
