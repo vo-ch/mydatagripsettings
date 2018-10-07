@@ -100,13 +100,13 @@
       <file name="/dummy.sql" timestamp="1536137241749">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="D:/skillup/TSQLFundamentals20160601/Ch11/Chapter 11 - Programmable Objects.sql" timestamp="1538598483457">
-        <mark key="'" line="0" column="0" />
+      <file name="D:/skillup/TSQLFundamentals20160601/Ch11/Chapter 11 - Programmable Objects.sql" timestamp="1538917124005">
+        <mark key="'" line="270" column="8" />
+        <mark key="[" line="270" column="8" />
+        <mark key="]" line="270" column="19" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="152" column="0" filename="D:/skillup/TSQLFundamentals20160601/Ch07/Chapter 07 - Beyond the Fundamentals of Querying - Solutions.sql" />
-      <jump line="143" column="29" filename="D:/skillup/TSQLFundamentals20160601/Ch07/Chapter 07 - Beyond the Fundamentals of Querying - Solutions.sql" />
       <jump line="168" column="2" filename="D:/skillup/TSQLFundamentals20160601/Ch07/Chapter 07 - Beyond the Fundamentals of Querying - Solutions.sql" />
       <jump line="191" column="0" filename="D:/skillup/TSQLFundamentals20160601/Ch07/Chapter 07 - Beyond the Fundamentals of Querying - Solutions.sql" />
       <jump line="150" column="0" filename="D:/skillup/TSQLFundamentals20160601/Ch07/Chapter 07 - Beyond the Fundamentals of Querying - Solutions.sql" />
@@ -205,10 +205,12 @@
       <jump line="1" column="41" filename="$APPLICATION_CONFIG_DIR$/consoles/db/aa2c8502-966b-44b7-89e6-3a23954dadae/console.sql" />
       <jump line="0" column="0" filename="D:/skillup/TSQLFundamentals20160601/Ch11/Chapter 11 - Programmable Objects.sql" />
       <jump line="3" column="25" filename="$APPLICATION_CONFIG_DIR$/consoles/db/aa2c8502-966b-44b7-89e6-3a23954dadae/console.sql" />
+      <jump line="270" column="8" filename="D:/skillup/TSQLFundamentals20160601/Ch11/Chapter 11 - Programmable Objects.sql" />
+      <jump line="473" column="8" filename="D:/skillup/TSQLFundamentals20160601/Ch11/Chapter 11 - Programmable Objects.sql" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>G</text>
+        <text>FETCH_STATUS</text>
       </register>
       <register name="*" type="4">
         <text>[]</text>
@@ -217,7 +219,7 @@
         <text>G</text>
       </register>
       <register name="/" type="4">
-        <text>cursor</text>
+        <text encoding="base64">XDxGRVRDSF9TVEFUVVNcPg==</text>
       </register>
       <register name="0" type="4">
         <text>Globals</text>
@@ -267,15 +269,14 @@
       </register>
     </registers>
     <search>
-      <last-search>cursor</last-search>
+      <last-search encoding="base64">XDxGRVRDSF9TVEFUVVNcPg==</last-search>
       <last-offset />
-      <last-pattern>cursor</last-pattern>
+      <last-pattern encoding="base64">XDxGRVRDSF9TVEFUVVNcPg==</last-pattern>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">IA==</entry>
         <entry>xxxxxxxxxxxxxxx</entry>
         <entry>creat</entry>
         <entry>insert</entry>
@@ -295,6 +296,7 @@
         <entry>orders</entry>
         <entry>snapshot</entry>
         <entry>cursor</entry>
+        <entry encoding="base64">XDxGRVRDSF9TVEFUVVNcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>help</entry>
