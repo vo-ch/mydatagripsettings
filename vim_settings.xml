@@ -119,7 +119,7 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1536136740383">
+      <file name="/Dummy.txt" timestamp="1589145566889">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -138,8 +138,17 @@
         <mark key="^" line="1" column="30" />
         <mark key="." line="1" column="30" />
       </file>
+      <file name="/console" timestamp="1589145499675">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="/tsqlv4.dbo.orderdetails [local_sql_server]" timestamp="1534879281501">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/7f725bec-f9ea-4c2b-9157-2d0d42746f45/console.sql" timestamp="1589145717935">
+        <mark key="[" line="0" column="30" />
+        <mark key="]" line="0" column="31" />
+        <mark key="." line="0" column="30" />
+        <mark key="^" line="0" column="31" />
       </file>
       <file name="/auth_qa.public.Clients [postgresauth]" timestamp="1536137239479">
         <mark key="[" line="0" column="0" />
@@ -159,7 +168,7 @@
         <mark key="^" line="0" column="20" />
         <mark key="." line="0" column="14" />
       </file>
-      <file name="/a.sql" timestamp="1536137227600">
+      <file name="/a.sql" timestamp="1589145566871">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/aa2c8502-966b-44b7-89e6-3a23954dadae/console.sql" timestamp="1538942166546">
@@ -183,9 +192,6 @@
       <file name="/t1 [local_sql_server]" timestamp="1533846740669">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/all_columns [local_sql_server]" timestamp="1533678587876">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="D:/skillup/TSQLFundamentals20160601/Ch08/Chapter 08 - Data Modification - Solutions.sql" timestamp="1534878813449">
         <mark key="'" line="283" column="5" />
         <mark key="[" line="242" column="34" />
@@ -197,14 +203,6 @@
         <mark key="'" line="286" column="32" />
         <mark key="[" line="302" column="0" />
         <mark key="]" line="306" column="22" />
-      </file>
-      <file name="D:/skillup/TSQLFundamentals20160601/Ch07/Chapter 07 - Beyond the Fundamentals of Querying - Solutions.sql" timestamp="1533584726548">
-        <mark key="'" line="46" column="0" />
-        <mark key="[" line="128" column="8" />
-        <mark key="]" line="128" column="8" />
-        <mark key="." line="128" column="8" />
-        <mark key="^" line="128" column="6" />
-        <mark key="n" line="36" column="1" />
       </file>
       <file name="/dummy.sql" timestamp="1536137241749">
         <mark key="[" line="0" column="0" />
@@ -320,8 +318,8 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>)</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="*" type="4">
         <text>[]</text>
@@ -332,11 +330,11 @@
       <register name="/" type="4">
         <text encoding="base64">XDxGRVRDSF9TVEFUVVNcPg==</text>
       </register>
-      <register name="0" type="4">
-        <text>100 * MONTH(@eventdate) + DAY(@eventdate)</text>
+      <register name="0" type="2">
+        <text encoding="base64">c2VsZWN0ICogZnJvbSBwdWJsaWMud29ya2Zsb3dzCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Q1JFQVRFIFRBQkxFICMjR2xvYmFscwooCiAgaWQgc3lzbmFtZSBOT1QgTlVMTCBQUklNQVJZIEtFWSwKICB2YWwgU1FMX1ZBUklBTlQgTk9UIE5VTEwKKQoKSU5TRVJUIElOVE8gIyNHbG9iYWxzKGlkLCB2YWwpIFZBTFVFUyhOJ2knLCAxMCk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -352,28 +350,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">c2VsZWN0ICogZnJvbSBwdWJsaWMud29ya2Zsb3dzCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">SUYgWUVBUihTWVNEQVRFVElNRSgpKSA8PiBZRUFSKERBVEVBREQoZGF5LCAxLCBTWVNEQVRFVElNRSgpKSkKICAgIFNFTEVDVCAqIEZST00gKFZBTFVFUyAoMSksICgyKSkgYXMgTnVtcyhuKTsKRUxTRQogICAgU0VMRUNUICgyKQo=</text>
+        <text encoding="base64">Q1JFQVRFIFRBQkxFICMjR2xvYmFscwooCiAgaWQgc3lzbmFtZSBOT1QgTlVMTCBQUklNQVJZIEtFWSwKICB2YWwgU1FMX1ZBUklBTlQgTk9UIE5VTEwKKQoKSU5TRVJUIElOVE8gIyNHbG9iYWxzKGlkLCB2YWwpIFZBTFVFUyhOJ2knLCAxMCk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">QkVHSU4gVFJBTlNBQ1RJT047CgpVUERBVEUgUHJvZHVjdGlvbi5Qcm9kdWN0cwpTRVQgdW5pdHByaWNlICs9IDEuMDAKV0hFUkUgcHJvZHVjdGlkID0gMzsK</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIFNFTEVDVCAqIEZST00gVkFMVUVTKDIpCg==</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">SUYgWUVBUihTWVNEQVRFVElNRSgpKSA8PiBZRUFSKERBVEVBREQoZGF5LCAxLCBTWVNEQVRFVElNRSgpKSkKICAgIFNFTEVDVCAqIEZST00gKFZBTFVFUyAoMSksICgyKSkgYXMgTnVtcyhuKTsKRUxTRQogICAgU0VMRUNUICgyKQo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">QkVHSU4gVFJBTlNBQ1RJT047CgpVUERBVEUgUHJvZHVjdGlvbi5Qcm9kdWN0cwpTRVQgdW5pdHByaWNlICs9IDEuMDAKV0hFUkUgcHJvZHVjdGlkID0gMzsK</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIFMK</text>
+        <text encoding="base64">ICAgIFNFTEVDVCAqIEZST00gVkFMVUVTKDIpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">QkVHSU4gVFJBTlNBQ1RJT047CgpVUERBVEUgUHJvZHVjdGlvbi5Qcm9kdWN0cwogIFNFVCB1bml0cHJpY2UgKz0gMS4wMApXSEVSRSBwcm9kdWN0aWQgPSAyOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ClNFTEVDVAoK</text>
+        <text encoding="base64">ICAgIFMK</text>
       </register>
       <register name=":" type="4">
         <text>action RenameElement</text>
@@ -386,7 +384,7 @@
       <last-offset />
       <last-pattern encoding="base64">XDxGRVRDSF9TVEFUVVNcPg==</last-pattern>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
   </component>
   <component name="VimSettings">
