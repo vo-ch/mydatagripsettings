@@ -1,6 +1,122 @@
 <application>
-  <component name="VimSettings">
-    <state version="4" enabled="true" />
+  <component name="VimEditorSettings">
+    <editor />
+  </component>
+  <component name="VimHistorySettings">
+    <history>
+      <history-search>
+        <entry>xxxxxxxxxxxxxxx</entry>
+        <entry>creat</entry>
+        <entry>insert</entry>
+        <entry>select\c</entry>
+        <entry>SELEC</entry>
+        <entry>SELECT</entry>
+        <entry>select</entry>
+        <entry encoding="base64">XDxzaGlwY291bnRyeVw+</entry>
+        <entry encoding="base64">XDxjb3VudHJ5XD4=</entry>
+        <entry encoding="base64">XDxTYWxlc1w+</entry>
+        <entry>cust</entry>
+        <entry>name</entry>
+        <entry>MODI</entry>
+        <entry>Mod.+ with</entry>
+        <entry>drop</entry>
+        <entry>sh</entry>
+        <entry>orders</entry>
+        <entry>snapshot</entry>
+        <entry>cursor</entry>
+        <entry encoding="base64">XDxGRVRDSF9TVEFUVVNcPg==</entry>
+      </history-search>
+      <history-cmd>
+        <entry>action AceAction</entry>
+        <entry>action AceLineAction</entry>
+        <entry encoding="base64">JzwsJz5ub3JtYWwgfg==</entry>
+        <entry encoding="base64">JzwsJz5ub3JtYWwgQTs=</entry>
+        <entry encoding="base64">JzwsJz4gbm9ybWFsIEE7</entry>
+        <entry>echo mapleader</entry>
+        <entry>let mapleader</entry>
+        <entry>actions Ace</entry>
+        <entry>actionlist</entry>
+        <entry>action AceWordAction</entry>
+        <entry>g/select/</entry>
+        <entry>g/SELECT/</entry>
+        <entry>action CommentByLineComment</entry>
+        <entry>action VimVisualSwapSelections</entry>
+        <entry>action CommentByBlockComment</entry>
+        <entry>action GotoImplementation</entry>
+        <entry>reg</entry>
+        <entry>iskeyword</entry>
+        <entry>action ShowErrorDescription</entry>
+        <entry>action RenameElement</entry>
+      </history-cmd>
+      <history-expr />
+      <history-input />
+    </history>
+  </component>
+  <component name="VimKeySettings">
+    <shortcut-conflicts>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed D</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed O</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed OPEN_BRACKET</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed CLOSE_BRACKET</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed P</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed E</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed F</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed H</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed A</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed R</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed B</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed Q</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed V</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed G</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed W</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed I</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed C</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed X</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed N</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed S</text>
+      </shortcut-conflict>
+    </shortcut-conflicts>
+  </component>
+  <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
       <file name="/Dummy.txt" timestamp="1536136740383">
@@ -15,18 +131,18 @@
       <file name="/databases [local_sql_server]" timestamp="1533679072871">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/aa2c8502-966b-44b7-89e6-3a23954dadae/console_1.sql" timestamp="1538911767948">
+        <mark key="'" line="2" column="0" />
+        <mark key="[" line="1" column="23" />
+        <mark key="]" line="1" column="30" />
+        <mark key="^" line="1" column="30" />
+        <mark key="." line="1" column="30" />
+      </file>
       <file name="/tsqlv4.dbo.orderdetails [local_sql_server]" timestamp="1534879281501">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/auth_qa.public.Clients [postgresauth]" timestamp="1536137239479">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="D:/skillup/TSQLFundamentals20160601/Ch05/Chapter 05 - Table Expressions.sql" timestamp="1533484442427">
-        <mark key="'" line="27" column="4" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-        <mark key="^" line="27" column="1" />
       </file>
       <file name="D:/skillup/TSQLFundamentals20160601/Ch08/orders.txt" timestamp="1533760293537">
         <mark key="[" line="9" column="20" />
@@ -66,13 +182,6 @@
       </file>
       <file name="/t1 [local_sql_server]" timestamp="1533846740669">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/aa2c8502-966b-44b7-89e6-3a23954dadae/console_1.sql" timestamp="1538911767948">
-        <mark key="'" line="2" column="0" />
-        <mark key="[" line="1" column="23" />
-        <mark key="]" line="1" column="30" />
-        <mark key="^" line="1" column="30" />
-        <mark key="." line="1" column="30" />
       </file>
       <file name="/all_columns [local_sql_server]" timestamp="1533678587876">
         <mark key="[" line="0" column="0" />
@@ -208,6 +317,8 @@
       <jump line="15" column="5" filename="$APPLICATION_CONFIG_DIR$/consoles/db/aa2c8502-966b-44b7-89e6-3a23954dadae/console.sql" />
       <jump line="0" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/aa2c8502-966b-44b7-89e6-3a23954dadae/console.sql" />
     </jumps>
+  </component>
+  <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
         <text>)</text>
@@ -268,6 +379,8 @@
         <text>action RenameElement</text>
       </register>
     </registers>
+  </component>
+  <component name="VimSearchSettings">
     <search>
       <last-search encoding="base64">XDxGRVRDSF9TVEFUVVNcPg==</last-search>
       <last-offset />
@@ -275,115 +388,12 @@
       <last-dir>1</last-dir>
       <show-last>true</show-last>
     </search>
-    <history>
-      <history-search>
-        <entry>xxxxxxxxxxxxxxx</entry>
-        <entry>creat</entry>
-        <entry>insert</entry>
-        <entry>select\c</entry>
-        <entry>SELEC</entry>
-        <entry>SELECT</entry>
-        <entry>select</entry>
-        <entry encoding="base64">XDxzaGlwY291bnRyeVw+</entry>
-        <entry encoding="base64">XDxjb3VudHJ5XD4=</entry>
-        <entry encoding="base64">XDxTYWxlc1w+</entry>
-        <entry>cust</entry>
-        <entry>name</entry>
-        <entry>MODI</entry>
-        <entry>Mod.+ with</entry>
-        <entry>drop</entry>
-        <entry>sh</entry>
-        <entry>orders</entry>
-        <entry>snapshot</entry>
-        <entry>cursor</entry>
-        <entry encoding="base64">XDxGRVRDSF9TVEFUVVNcPg==</entry>
-      </history-search>
-      <history-cmd>
-        <entry>action AceAction</entry>
-        <entry>action AceLineAction</entry>
-        <entry encoding="base64">JzwsJz5ub3JtYWwgfg==</entry>
-        <entry encoding="base64">JzwsJz5ub3JtYWwgQTs=</entry>
-        <entry encoding="base64">JzwsJz4gbm9ybWFsIEE7</entry>
-        <entry>echo mapleader</entry>
-        <entry>let mapleader</entry>
-        <entry>actions Ace</entry>
-        <entry>actionlist</entry>
-        <entry>action AceWordAction</entry>
-        <entry>g/select/</entry>
-        <entry>g/SELECT/</entry>
-        <entry>action CommentByLineComment</entry>
-        <entry>action VimVisualSwapSelections</entry>
-        <entry>action CommentByBlockComment</entry>
-        <entry>action GotoImplementation</entry>
-        <entry>reg</entry>
-        <entry>iskeyword</entry>
-        <entry>action ShowErrorDescription</entry>
-        <entry>action RenameElement</entry>
-      </history-cmd>
-      <history-expr />
-      <history-input />
-    </history>
-    <shortcut-conflicts>
-      <shortcut-conflict owner="vim">
-        <text>ctrl pressed D</text>
-      </shortcut-conflict>
-      <shortcut-conflict owner="vim">
-        <text>ctrl pressed O</text>
-      </shortcut-conflict>
-      <shortcut-conflict owner="vim">
-        <text>ctrl pressed OPEN_BRACKET</text>
-      </shortcut-conflict>
-      <shortcut-conflict owner="vim">
-        <text>ctrl pressed CLOSE_BRACKET</text>
-      </shortcut-conflict>
-      <shortcut-conflict owner="ide">
-        <text>ctrl pressed P</text>
-      </shortcut-conflict>
-      <shortcut-conflict owner="vim">
-        <text>ctrl pressed E</text>
-      </shortcut-conflict>
-      <shortcut-conflict owner="ide">
-        <text>ctrl pressed F</text>
-      </shortcut-conflict>
-      <shortcut-conflict owner="vim">
-        <text>ctrl pressed H</text>
-      </shortcut-conflict>
-      <shortcut-conflict owner="vim">
-        <text>ctrl pressed A</text>
-      </shortcut-conflict>
-      <shortcut-conflict owner="vim">
-        <text>ctrl pressed R</text>
-      </shortcut-conflict>
-      <shortcut-conflict owner="ide">
-        <text>ctrl pressed B</text>
-      </shortcut-conflict>
-      <shortcut-conflict owner="ide">
-        <text>ctrl pressed Q</text>
-      </shortcut-conflict>
-      <shortcut-conflict owner="vim">
-        <text>ctrl pressed V</text>
-      </shortcut-conflict>
-      <shortcut-conflict owner="vim">
-        <text>ctrl pressed G</text>
-      </shortcut-conflict>
-      <shortcut-conflict owner="vim">
-        <text>ctrl pressed W</text>
-      </shortcut-conflict>
-      <shortcut-conflict owner="vim">
-        <text>ctrl pressed I</text>
-      </shortcut-conflict>
-      <shortcut-conflict owner="vim">
-        <text>ctrl pressed C</text>
-      </shortcut-conflict>
-      <shortcut-conflict owner="vim">
-        <text>ctrl pressed X</text>
-      </shortcut-conflict>
-      <shortcut-conflict owner="vim">
-        <text>ctrl pressed N</text>
-      </shortcut-conflict>
-      <shortcut-conflict owner="vim">
-        <text>ctrl pressed S</text>
-      </shortcut-conflict>
-    </shortcut-conflicts>
+  </component>
+  <component name="VimSettings">
+    <state version="6" enabled="true" />
+    <notifications>
+      <idea-join enabled="false" />
+      <idea-put enabled="false" />
+    </notifications>
   </component>
 </application>
