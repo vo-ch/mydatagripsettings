@@ -119,29 +119,10 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1589145566889">
+      <file name="/octopus.public.profiles" timestamp="1590697590404">
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-      </file>
-      <file name="D:/skillup/TSQLFundamentals20160601/Ch09/Chapter 09 - Temporal Tables.sql" timestamp="1535055198589">
-        <mark key="[" line="23" column="0" />
-        <mark key="]" line="38" column="2" />
-      </file>
-      <file name="/databases [local_sql_server]" timestamp="1533679072871">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/aa2c8502-966b-44b7-89e6-3a23954dadae/console_1.sql" timestamp="1538911767948">
-        <mark key="'" line="2" column="0" />
-        <mark key="[" line="1" column="23" />
-        <mark key="]" line="1" column="30" />
-        <mark key="^" line="1" column="30" />
-        <mark key="." line="1" column="30" />
       </file>
       <file name="/console" timestamp="1590696697763">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="/tsqlv4.dbo.orderdetails [local_sql_server]" timestamp="1534879281501">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/7f725bec-f9ea-4c2b-9157-2d0d42746f45/console.sql" timestamp="1590696864372">
@@ -151,15 +132,6 @@
       </file>
       <file name="/auth_qa.public.Clients [postgresauth]" timestamp="1536137239479">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="D:/skillup/TSQLFundamentals20160601/Ch08/orders.txt" timestamp="1533760293537">
-        <mark key="[" line="9" column="20" />
-        <mark key="]" line="9" column="1351" />
-        <mark key="." line="9" column="1351" />
-        <mark key="^" line="9" column="1351" />
-      </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/.datagrid/cell" timestamp="1535056885723">
-        <mark key="'" line="0" column="0" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/52a3f802-8fc1-4b32-9b34-d625b3ef9428/console.sql" timestamp="1536136927437">
         <mark key="[" line="0" column="14" />
@@ -177,26 +149,14 @@
         <mark key="." line="19" column="71" />
         <mark key="^" line="19" column="71" />
       </file>
-      <file name="D:/skillup/TSQLFundamentals20160601/Ch08/Chapter 08 - Data Modification.sql" timestamp="1534624428471">
-        <mark key="'" line="759" column="0" />
-        <mark key="[" line="812" column="0" />
-        <mark key="]" line="819" column="2" />
-      </file>
       <file name="aa2c8502-966b-44b7-89e6-3a23954dadae/database/tsqlv4/schema/dbo/table/orderdetails/index/pk_orderdetails" timestamp="1534879203119">
         <mark key="[" line="1" column="35" />
         <mark key="]" line="2" column="27" />
         <mark key="^" line="2" column="27" />
         <mark key="." line="2" column="27" />
       </file>
-      <file name="/t1 [local_sql_server]" timestamp="1533846740669">
+      <file name="/profiles [postgres_octo_docker_compose]" timestamp="1590697590383">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="D:/skillup/TSQLFundamentals20160601/Ch08/Chapter 08 - Data Modification - Solutions.sql" timestamp="1534878813449">
-        <mark key="'" line="283" column="5" />
-        <mark key="[" line="242" column="34" />
-        <mark key="]" line="242" column="74" />
-        <mark key="." line="242" column="34" />
-        <mark key="^" line="218" column="18" />
       </file>
       <file name="D:/skillup/TSQLFundamentals20160601/Ch10/Chapter 10 - Transactions and Concurrency.sql" timestamp="1536782865431">
         <mark key="'" line="286" column="32" />
@@ -206,10 +166,41 @@
       <file name="/dummy.sql" timestamp="1536137241749">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="/Dummy.txt" timestamp="1589145566889">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
+      <file name="D:/skillup/TSQLFundamentals20160601/Ch09/Chapter 09 - Temporal Tables.sql" timestamp="1535055198589">
+        <mark key="[" line="23" column="0" />
+        <mark key="]" line="38" column="2" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/aa2c8502-966b-44b7-89e6-3a23954dadae/console_1.sql" timestamp="1538911767948">
+        <mark key="'" line="2" column="0" />
+        <mark key="[" line="1" column="23" />
+        <mark key="]" line="1" column="30" />
+        <mark key="^" line="1" column="30" />
+        <mark key="." line="1" column="30" />
+      </file>
+      <file name="/tsqlv4.dbo.orderdetails [local_sql_server]" timestamp="1534879281501">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/octopus.public.workflows" timestamp="1590697616534">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/.datagrid/cell" timestamp="1535056885723">
+        <mark key="'" line="0" column="0" />
+      </file>
+      <file name="/foo.bar" timestamp="1590697616554">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="D:/skillup/TSQLFundamentals20160601/Ch11/Chapter 11 - Programmable Objects.sql" timestamp="1538917124005">
         <mark key="'" line="270" column="8" />
         <mark key="[" line="270" column="8" />
         <mark key="]" line="270" column="19" />
+      </file>
+      <file name="/workflows [postgres_octo_docker_compose]" timestamp="1590697616497">
+        <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
     <jumps>
