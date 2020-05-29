@@ -145,7 +145,7 @@
         <mark key="^" line="0" column="20" />
         <mark key="." line="0" column="14" />
       </file>
-      <file name="/a.sql" timestamp="1589145566871">
+      <file name="/a.sql" timestamp="1590783327135">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/aa2c8502-966b-44b7-89e6-3a23954dadae/console.sql" timestamp="1538942166546">
@@ -154,6 +154,9 @@
         <mark key="]" line="19" column="71" />
         <mark key="." line="19" column="71" />
         <mark key="^" line="19" column="71" />
+      </file>
+      <file name="/default" timestamp="1590782682570">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="/profiles [postgres_octo_docker_compose]" timestamp="1590697590383">
         <mark key="[" line="0" column="0" />
@@ -170,10 +173,6 @@
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
-      </file>
-      <file name="D:/skillup/TSQLFundamentals20160601/Ch09/Chapter 09 - Temporal Tables.sql" timestamp="1535055198589">
-        <mark key="[" line="23" column="0" />
-        <mark key="]" line="38" column="2" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/aa2c8502-966b-44b7-89e6-3a23954dadae/console_1.sql" timestamp="1538911767948">
         <mark key="'" line="2" column="0" />
