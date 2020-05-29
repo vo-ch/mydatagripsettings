@@ -133,6 +133,12 @@
       <file name="/auth_qa.public.Clients [postgresauth]" timestamp="1536137239479">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="/octopus.public.sessions" timestamp="1590744456719">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/sessions [postgres_octo_docker_compose]" timestamp="1590744456695">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/52a3f802-8fc1-4b32-9b34-d625b3ef9428/console.sql" timestamp="1536136927437">
         <mark key="[" line="0" column="14" />
         <mark key="]" line="0" column="14" />
@@ -148,12 +154,6 @@
         <mark key="]" line="19" column="71" />
         <mark key="." line="19" column="71" />
         <mark key="^" line="19" column="71" />
-      </file>
-      <file name="aa2c8502-966b-44b7-89e6-3a23954dadae/database/tsqlv4/schema/dbo/table/orderdetails/index/pk_orderdetails" timestamp="1534879203119">
-        <mark key="[" line="1" column="35" />
-        <mark key="]" line="2" column="27" />
-        <mark key="^" line="2" column="27" />
-        <mark key="." line="2" column="27" />
       </file>
       <file name="/profiles [postgres_octo_docker_compose]" timestamp="1590697590383">
         <mark key="[" line="0" column="0" />
@@ -182,16 +182,13 @@
         <mark key="^" line="1" column="30" />
         <mark key="." line="1" column="30" />
       </file>
-      <file name="/tsqlv4.dbo.orderdetails [local_sql_server]" timestamp="1534879281501">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="/octopus.public.workflows" timestamp="1590697616534">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/.datagrid/cell" timestamp="1535056885723">
         <mark key="'" line="0" column="0" />
       </file>
-      <file name="/foo.bar" timestamp="1590697616554">
+      <file name="/foo.bar" timestamp="1590744456737">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="D:/skillup/TSQLFundamentals20160601/Ch11/Chapter 11 - Programmable Objects.sql" timestamp="1538917124005">
