@@ -130,20 +130,20 @@
         <mark key="]" line="3" column="0" />
         <mark key="." line="3" column="0" />
       </file>
+      <file name="/patients [postgres_octo_docker_compose]" timestamp="1590835712693">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="/auth_qa.public.Clients [postgresauth]" timestamp="1536137239479">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/octopus.public.sessions" timestamp="1590744456719">
+      <file name="/octopus.public.sessions" timestamp="1590835724037">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/sessions [postgres_octo_docker_compose]" timestamp="1590744456695">
+      <file name="/sessions [postgres_octo_docker_compose]" timestamp="1590835723990">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/52a3f802-8fc1-4b32-9b34-d625b3ef9428/console.sql" timestamp="1536136927437">
-        <mark key="[" line="0" column="14" />
-        <mark key="]" line="0" column="14" />
-        <mark key="^" line="0" column="20" />
-        <mark key="." line="0" column="14" />
+      <file name="/octopus.public.patients" timestamp="1590835712746">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="/a.sql" timestamp="1590783327135">
         <mark key="[" line="0" column="0" />
@@ -184,10 +184,7 @@
       <file name="/octopus.public.workflows" timestamp="1590697616534">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/.datagrid/cell" timestamp="1535056885723">
-        <mark key="'" line="0" column="0" />
-      </file>
-      <file name="/foo.bar" timestamp="1590744456737">
+      <file name="/foo.bar" timestamp="1590835724071">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="D:/skillup/TSQLFundamentals20160601/Ch11/Chapter 11 - Programmable Objects.sql" timestamp="1538917124005">
