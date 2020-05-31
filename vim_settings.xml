@@ -125,6 +125,9 @@
       <file name="/console" timestamp="1590696697763">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="/scheduler_job [postgres_octo_docker_compose]" timestamp="1590928459807">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/7f725bec-f9ea-4c2b-9157-2d0d42746f45/console.sql" timestamp="1590696864372">
         <mark key="[" line="3" column="0" />
         <mark key="]" line="3" column="0" />
@@ -133,13 +136,10 @@
       <file name="/patients [postgres_octo_docker_compose]" timestamp="1590835712693">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/auth_qa.public.Clients [postgresauth]" timestamp="1536137239479">
+      <file name="/octopus.public.sessions" timestamp="1590928412926">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/octopus.public.sessions" timestamp="1590835724037">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="/sessions [postgres_octo_docker_compose]" timestamp="1590835723990">
+      <file name="/sessions [postgres_octo_docker_compose]" timestamp="1590928412904">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/octopus.public.patients" timestamp="1590835712746">
@@ -166,9 +166,6 @@
         <mark key="[" line="302" column="0" />
         <mark key="]" line="306" column="22" />
       </file>
-      <file name="/dummy.sql" timestamp="1536137241749">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="/Dummy.txt" timestamp="1589145566889">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -181,10 +178,13 @@
         <mark key="^" line="1" column="30" />
         <mark key="." line="1" column="30" />
       </file>
+      <file name="/octopus.public.scheduler_job" timestamp="1590928459818">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="/octopus.public.workflows" timestamp="1590917801217">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/foo.bar" timestamp="1590917801241">
+      <file name="/foo.bar" timestamp="1590928459830">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="D:/skillup/TSQLFundamentals20160601/Ch11/Chapter 11 - Programmable Objects.sql" timestamp="1538917124005">
