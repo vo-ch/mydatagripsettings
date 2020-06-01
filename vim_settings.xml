@@ -128,7 +128,10 @@
       <file name="/organizations [postgres_octo_docker_compose]" timestamp="1591017696919">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/patients [postgres_octo_docker_compose]" timestamp="1591017670721">
+      <file name="/octopus.public.sessions" timestamp="1591026035437">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/sessions [postgres_octo_docker_compose]" timestamp="1591026035413">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/octopus.public.patients" timestamp="1591017670746">
@@ -146,9 +149,6 @@
       <file name="/languages [postgres_octo_docker_compose]" timestamp="1591017711658">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/octopus.public.scheduler_job" timestamp="1590928459818">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="/octopus.public.medications" timestamp="1591017702129">
         <mark key="[" line="0" column="0" />
       </file>
@@ -158,7 +158,7 @@
       <file name="/octopus.public.organizations" timestamp="1591017696930">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/foo.bar" timestamp="1591017722485">
+      <file name="/foo.bar" timestamp="1591026035452">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/medication_groups [postgres_octo_docker_compose]" timestamp="1591017704163">
