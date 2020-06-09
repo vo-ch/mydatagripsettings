@@ -137,13 +137,16 @@
       <file name="/octopus.public.medical_service_patient" timestamp="1591694663466">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="/console" timestamp="1591713798202">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/7f725bec-f9ea-4c2b-9157-2d0d42746f45/console.sql" timestamp="1591713800831">
+        <mark key="[" line="3" column="0" />
+      </file>
       <file name="/octopus.public.sessions" timestamp="1591694663473">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/sessions [postgres_octo_docker_compose]" timestamp="1591694663471">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="/octopus.public.patients" timestamp="1591694663451">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/octopus.public.organizations" timestamp="1591694663457">
@@ -162,9 +165,6 @@
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/medical_service_modules [postgres_octo_docker_compose]" timestamp="1591694663477">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="/profiles [postgres_octo_docker_compose]" timestamp="1591694663453">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/dictionary [postgres_octo_docker_compose]" timestamp="1591694663474">
