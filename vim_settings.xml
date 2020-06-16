@@ -122,8 +122,10 @@
       <file name="/console" timestamp="1592080894886">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/7f725bec-f9ea-4c2b-9157-2d0d42746f45/console.sql" timestamp="1591713800831">
-        <mark key="[" line="3" column="0" />
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/7f725bec-f9ea-4c2b-9157-2d0d42746f45/console.sql" timestamp="1592308227055">
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="7" column="0" />
+        <mark key="." line="7" column="0" />
       </file>
       <file name="/patients [postgres_octo_docker_compose]" timestamp="1592231020530">
         <mark key="[" line="0" column="0" />
@@ -140,7 +142,10 @@
       <file name="/octopus.public.languages" timestamp="1591694663469">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/a.sql" timestamp="1592163887622">
+      <file name="/a.sql" timestamp="1592307808035">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/default" timestamp="1592307712704">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/octopus.public.dictionary" timestamp="1591694663475">
@@ -149,7 +154,7 @@
       <file name="/languages [postgres_octo_docker_compose]" timestamp="1591694663468">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1592163887641">
+      <file name="/Dummy.txt" timestamp="1592307771705">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/octopus.public.medical_service_patient" timestamp="1591694663466">
@@ -159,9 +164,6 @@
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/foo.bar" timestamp="1592231020598">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="/octopus.public.medication_groups" timestamp="1591694663463">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/medical_service_modules [postgres_octo_docker_compose]" timestamp="1591694663477">
@@ -286,13 +288,13 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZHJvcCBkYXRhYmFzZSBvY3RvcHVzOwo=</text>
       </register>
       <register name="*" type="4">
         <text>[]</text>
       </register>
       <register name="-" type="4">
-        <text>data</text>
+        <text>databa</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxGRVRDSF9TVEFUVVNcPg==</text>
@@ -301,7 +303,7 @@
         <text encoding="base64">c2VsZWN0ICogZnJvbSBwdWJsaWMud29ya2Zsb3dzCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZHJvcCBkYXRhYmFzZSBvY3RvcHVzOwo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -317,28 +319,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">c2VsZWN0ICogZnJvbSBwZ19kYXRhYmFzZTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">c2VsZWN0ICogZnJvbSBwZ19kYXRhYmFzZTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">c2VsZWN0ICogZnJvbSBwdWJsaWMud29ya2Zsb3dzCg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">Q1JFQVRFIFRBQkxFICMjR2xvYmFscwooCiAgaWQgc3lzbmFtZSBOT1QgTlVMTCBQUklNQVJZIEtFWSwKICB2YWwgU1FMX1ZBUklBTlQgTk9UIE5VTEwKKQoKSU5TRVJUIElOVE8gIyNHbG9iYWxzKGlkLCB2YWwpIFZBTFVFUyhOJ2knLCAxMCk7Cg==</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">c2VsZWN0ICogZnJvbSBwdWJsaWMud29ya2Zsb3dzCg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">Q1JFQVRFIFRBQkxFICMjR2xvYmFscwooCiAgaWQgc3lzbmFtZSBOT1QgTlVMTCBQUklNQVJZIEtFWSwKICB2YWwgU1FMX1ZBUklBTlQgTk9UIE5VTEwKKQoKSU5TRVJUIElOVE8gIyNHbG9iYWxzKGlkLCB2YWwpIFZBTFVFUyhOJ2knLCAxMCk7Cg==</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">SUYgWUVBUihTWVNEQVRFVElNRSgpKSA8PiBZRUFSKERBVEVBREQoZGF5LCAxLCBTWVNEQVRFVElNRSgpKSkKICAgIFNFTEVDVCAqIEZST00gKFZBTFVFUyAoMSksICgyKSkgYXMgTnVtcyhuKTsKRUxTRQogICAgU0VMRUNUICgyKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">QkVHSU4gVFJBTlNBQ1RJT047CgpVUERBVEUgUHJvZHVjdGlvbi5Qcm9kdWN0cwpTRVQgdW5pdHByaWNlICs9IDEuMDAKV0hFUkUgcHJvZHVjdGlkID0gMzsK</text>
+        <text encoding="base64">SUYgWUVBUihTWVNEQVRFVElNRSgpKSA8PiBZRUFSKERBVEVBREQoZGF5LCAxLCBTWVNEQVRFVElNRSgpKSkKICAgIFNFTEVDVCAqIEZST00gKFZBTFVFUyAoMSksICgyKSkgYXMgTnVtcyhuKTsKRUxTRQogICAgU0VMRUNUICgyKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIFNFTEVDVCAqIEZST00gVkFMVUVTKDIpCg==</text>
+        <text encoding="base64">QkVHSU4gVFJBTlNBQ1RJT047CgpVUERBVEUgUHJvZHVjdGlvbi5Qcm9kdWN0cwpTRVQgdW5pdHByaWNlICs9IDEuMDAKV0hFUkUgcHJvZHVjdGlkID0gMzsK</text>
       </register>
       <register name=":" type="4">
         <text>action RenameElement</text>
