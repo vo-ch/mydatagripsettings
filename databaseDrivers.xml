@@ -13,7 +13,7 @@
       <artifact id="MySQL Connector/J 8" name="MySQL Connector/J 8" use="true" />
     </driver>
     <driver id="postgresql">
-      <artifact id="PostgreSQL" name="PostgreSQL" use="true" version="42.3.3" />
+      <artifact id="PostgreSQL" name="PostgreSQL" use="true" version="42.4.0" />
     </driver>
     <driver id="sqlite.xerial">
       <artifact id="Xerial SQLiteJDBC" name="Xerial SQLiteJDBC" use="true" version="3.36.0.3" />
